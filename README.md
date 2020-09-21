@@ -18,5 +18,5 @@ Good article about [Clean Architecture](https://blog.cleancoder.com/uncle-bob/20
 
 This is the flow that used to build the app:
 
-![App Flow](https://www.sovereignconsult.com/wp-content/uploads/2019/12/MVVM-with-Clean-Architecture-for-your-Android-App.png)
+![App Flow](https://miro.medium.com/max/875/1*scRS80AjzsGiAN3szmaoZw.png)
 
