@@ -27,4 +27,4 @@ This is the flow that used to build the app:
 * ViewModel & LiveData
 
 # How To Use
-![](https://github.com/Abdulrahman-Tayara/Dijkstra-Solver-Clean-Architecture/blob/master/demo.mp4)
+![How to use](https://github.com/Abdulrahman-Tayara/Dijkstra-Solver-Clean-Architecture/blob/master/demo.gif)
