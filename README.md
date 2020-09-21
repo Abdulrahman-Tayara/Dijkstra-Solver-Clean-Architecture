@@ -25,3 +25,6 @@ This is the flow that used to build the app:
 * RxJava2
 * Hilt (for Dependency Injection)
 * ViewModel & LiveData
+
+# How To Use
+![How to use](https://github.com/Abdulrahman-Tayara/Dijkstra-Solver-Clean-Architecture/blob/master/demo.mp4)
