@@ -20,3 +20,8 @@ This is the flow that used to build the app:
 
 ![App Flow](https://miro.medium.com/max/875/1*scRS80AjzsGiAN3szmaoZw.png)
 
+
+# Used Tools
+* RxJava2
+* Hilt (for Dependency Injection)
+* ViewModel & LiveData
