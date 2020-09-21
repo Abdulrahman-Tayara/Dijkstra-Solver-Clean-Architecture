@@ -13,3 +13,10 @@ This is the Clean-Architecture layers and how the layers communicate between eac
 
 
 Good article about [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+# Clean Architecture & MVVM in Android
+
+This is the flow that used to build the app:
+
+![App Flow](https://www.sovereignconsult.com/wp-content/uploads/2019/12/MVVM-with-Clean-Architecture-for-your-Android-App.png)
+
