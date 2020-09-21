@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DijkstraApplication.iml" filepath="$PROJECT_DIR$/../DijkstraApplication.iml" group="DijkstraApplication" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="DijkstraApplication/app" />
+    </modules>
+  </component>
+</project>

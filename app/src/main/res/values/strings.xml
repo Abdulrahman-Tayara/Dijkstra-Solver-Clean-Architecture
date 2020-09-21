@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DijkstraApplication</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="add_edge">Add Edge</string>
+    <string name="edges">Edges</string>
+    <string name="add_node">Add Node</string>
+    <string name="nodes">Nodes</string>
+    <string name="weight">Weight</string>
+    <string name="run">Run</string>
+    <string name="result">Result</string>
+    <string name="cost">Cost</string>
+    <string name="path">Path</string>
+    <string name="no_path_found">There is no path found.</string>
+</resources>

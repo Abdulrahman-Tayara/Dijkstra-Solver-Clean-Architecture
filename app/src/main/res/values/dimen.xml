@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Base
+    <dimen name="margin_xsmall">@dimen/_5sdp</dimen>
+    <dimen name="margin_small">@dimen/_10sdp</dimen>
+    <dimen name="margin_medium">@dimen/_14sdp</dimen>
+    <dimen name="margin_large">@dimen/_20sdp</dimen>
+    <dimen name="margin_xlarge">@dimen/_24sdp</dimen>
+
+    <dimen name="font_xsmall">@dimen/_5sdp</dimen>
+    <dimen name="font_small">@dimen/_10sdp</dimen>
+    <dimen name="font_medium">@dimen/_12sdp</dimen>
+    <dimen name="font_large">@dimen/_16sdp</dimen>
+    <dimen name="font_xlarge">@dimen/_20sdp</dimen>
+
+</resources>
